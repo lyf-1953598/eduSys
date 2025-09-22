@@ -1,0 +1,9 @@
+INSERT INTO "enroll_occupation" ("id", "name") VALUES (1, '学生');
+INSERT INTO "enroll_occupation" ("id", "name") VALUES (2, '设计师');
+INSERT INTO "enroll_occupation" ("id", "name") VALUES (3, '公务员');
+INSERT INTO "enroll_occupation" ("id", "name") VALUES (4, '教师');
+INSERT INTO "enroll_occupation" ("id", "name") VALUES (5, '程序员');
+INSERT INTO "enroll_occupation" ("id", "name") VALUES (6, '工人');
+INSERT INTO "enroll_occupation" ("id", "name") VALUES (7, '农民');
+INSERT INTO "enroll_occupation" ("id", "name") VALUES (8, '建筑师');
+INSERT INTO "enroll_occupation" ("id", "name") VALUES (9, '城市规划师');

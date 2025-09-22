@@ -1,0 +1,37 @@
+# beautifulsoup4
+# Flask
+future
+gevent
+glob2
+lxml
+Markdown
+matplotlib
+numpy
+openpyxl
+pandas
+Pillow
+# psycopg2
+requests
+scipy
+urllib3
+xmltodict
+yarl
+Django
+celery
+django-celery-results
+django-celery-beat
+django-simpleui
+django-sslserver
+django-rest-framework
+django-cors-headers
+django-phonenumber-field[phonenumbers]
+drf-yasg
+django-redis
+aiohttp
+apscheduler
+python-jose
+psycopg2-binary
+gunicorn
+pipe
+dingtalkchatbot
+cos-python-sdk-v5

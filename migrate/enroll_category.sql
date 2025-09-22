@@ -1,0 +1,10 @@
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (1, '可持续时尚', '#FF0000');
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (2, '元时空搜索引擎', '#09A9FFFF');
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (3, '可持续新能源住宅', '#FFE209FF');
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (4, 'RAR城元宇宙', '#07FF95FF');
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (5, '元宇宙教育', '#FF8507FF');
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (6, '新能源露营+盒子社区', '#07FFF2FF');
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (7, '面向青少年的数字虚拟人手机助理', '#B002FFFF');
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (8, '新能源共享三轮车', '#FF1598FF');
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (9, 'Web3.0时代数字艺术如何构建价值闭环', '#64FF00FF');
+INSERT INTO "enroll_category" ("id", "name", "color") VALUES (10, '自拟题目', '#D8D8D8FF');
